@@ -1,0 +1,19 @@
+body{
+    background: url(./cables.jpeg);
+    text-align: center;
+}
+h1 {
+    font-size: 3rem;
+    color: rgba(24, 23, 23, 0);
+}
+h2 {
+    color: rgba(221, 67, 67, 0.772);
+    font-size: 5rem;
+}
+p {
+    color: rgba(221, 67, 67, 0.772);
+}
+button {
+    border-radius:7;
+    background-color: yellow;
+}
